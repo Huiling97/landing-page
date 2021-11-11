@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  height: 200px;
+  background-color: black;
+  color: grey;
+  justify-content: center;
+  align-items: center;
+}
+
+.links > a {
+  display: inline-block;
+  font-size: 30px;
+  letter-spacing: 10px;
+  color: #1EDD88;
+}
